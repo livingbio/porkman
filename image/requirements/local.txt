@@ -6,7 +6,7 @@ django-debug-toolbar==1.4
 
 # The Swiss Army knife of Python web development
 # https://pypi.python.org/pypi/Werkzeug/0.11.2
-Werkzeug==0.11.2
+Werkzeug==3.1.6
 
 
 # Code coverage measurement for Python
